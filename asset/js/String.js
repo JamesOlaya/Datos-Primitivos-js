@@ -97,3 +97,4 @@ function monedaEntero () {
 }
 
 alert(monedaEntero());
+alert("hola")
